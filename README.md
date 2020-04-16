@@ -1,5 +1,4 @@
 # PasswordFinder
-A program to crack the password in the open learning Week 8 Login leaks module for Security Engineering course
 
 This is a small program to automate cracking a password for the following activity:
 
